@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <a href=" ">
-<img src="https://i.postimg.cc/wMDZW5WH/image.png" width='346' height='346'>
+<img src="https://i.postimg.cc/wMDZW5WH/image.png" width='350' height='350'>
 </a>
 
 <div id="header" align="center">
